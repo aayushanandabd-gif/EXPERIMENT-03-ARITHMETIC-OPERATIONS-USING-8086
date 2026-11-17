@@ -203,25 +203,33 @@ HLT
 
 Upload the addition program execution screenshot here.
 
-![Addition Output](img/addition.png)
+![Addition Output]
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/ac52fabb-7698-4c30-887f-a42ff715a514" />
+
 
 ### FIGURE-02: SUBTRACTION OUTPUT
 
 Upload the subtraction program execution screenshot here.
 
-![Subtraction Output](img/subtraction.png)
+![Subtraction Output]
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/f1a30533-84c4-4e8b-91b2-38c0edc4cfdd" />
+
 
 ### FIGURE-03: MULTIPLICATION OUTPUT
 
 Upload the multiplication program execution screenshot here.
 
-![Multiplication Output](img/multiplication.png)
+![Multiplication Output
+<img width="1600" height="736" alt="image" src="https://github.com/user-attachments/assets/f5640ce5-78a7-48b2-84a9-49e41481a9f1" />
+
 
 ### FIGURE-04: DIVISION OUTPUT
 
 Upload the division program execution screenshot here.
 
-![Division Output](img/division.png)
+![Division Output]
+<img width="1600" height="735" alt="image" src="https://github.com/user-attachments/assets/d55d558c-524c-4df7-acef-89bfa874069e" />
+
 
 ## RESULT:
 
